@@ -50,5 +50,5 @@ This project is licensed under the MIT License.
 
 - [OpenAI](https://openai.com/) for the API that enables powerful text embeddings.
 - [Pinecone](https://www.pinecone.io/) for the vector database service.
-- [LangChain](https://github.com/langchain/langchain) for the framework that makes it possible to build these applications.
+- [LangChain](https://github.com/langchain-ai/langchain) for the framework that makes it possible to build these applications.
 
